@@ -1,2 +1,18 @@
-# Research-Lab
-My research projects, paper reproductions, and deep learning experiments.
+# \# Research-Lab
+
+# 
+
+# This repository is my personal research workspace.
+
+# 
+
+# Focus:
+
+# \- Deep Learning
+
+# \- Control Engineering
+
+# \- Paper Reproduction
+
+# \- Machine Learning Competition
+
